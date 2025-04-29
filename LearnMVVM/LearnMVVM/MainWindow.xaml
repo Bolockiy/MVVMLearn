@@ -15,11 +15,11 @@
     </Window.DataContext>
         <Grid>
         <TextBox HorizontalAlignment="Left"
-                 Margin="125,114,0,0"
+                 Margin="75,84,0,0"
                  TextWrapping="Wrap"
                  Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}"
                  VerticalAlignment="Top" 
-                 Width="60"
+                 Width="105"
                  Height="20"/>
 
     </Grid>
